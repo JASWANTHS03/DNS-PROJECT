@@ -1,1 +1,2 @@
 # DNS-PROJECT
+This Project is based on java webframe works,and can be run on JDK in Java Virtual Machine in which Firstly we have to run the Server.java file in the Command prompt,then the Server makes a connection setup and,Next when the Client.java is ran the connection is setup between two of them,and then the GUI will OPen and when we type the relevant Hostname The respective IP Address is the Output and However, there are some 5 cases in this.
