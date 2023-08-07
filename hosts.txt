@@ -1,0 +1,7 @@
+www.facebook.com 192.168.72.6
+www.sastra.edu 221.35.62.78
+www.reddit.com 92.12.45.68
+www.google.com 63.78.95.85
+www.flipkart.in 23.45.78.3
+www.instagram.com 157.240.1.174
+
